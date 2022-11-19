@@ -1,8 +1,8 @@
-# newsapp
+# Polines News
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
+## created by Widigda Mukti
 
 This project is a starting point for a Flutter application.
 
